@@ -1,1 +1,1 @@
-# TMDB-API
+This project is a Movie Database API that provides developers with access to a wide range of movie-related data, including details about movies, actors, directors, and genres. Users can integrate this RESTful web service into their applications or websites to access and display movie information. The API is configured with authentication via a TMDb API key and offers various endpoints for querying and retrieving data.
